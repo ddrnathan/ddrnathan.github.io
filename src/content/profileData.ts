@@ -14,9 +14,9 @@ export const PROFILE = {
   headLine: "Find Your PURPOSE",
   headLine2:
     "This is my attempt at finding and creating my mind into a digital site",
-  website: "https://techtim42.com",
-  repo: "https://github.com/tim-hub/techtim-astro-bento-portfolio",
-  avatarUrl: "https://techtim42.com/techtim42.webp",
+  website: "https://ddrnathan.github.io",
+  repo: "https://github.com/ddrnathan/ddrnathan.github.io",
+  avatarUrl: "avatar.webp",
   shortIntros: [
     "Student | Open Source Lover | Self-starter",
     "Tennis Player | Find at USTA and UTR",
@@ -24,8 +24,6 @@ export const PROFILE = {
     "'Stay Driven, Amid Chaos'",
     "",
     "Project started 12/6/2024",
-    "",
-    "As of Now | Age: 15| Birthday: 3/29/2009",
   ],
   words: ["The question isn't who is going to let me; it's who is going to stop me "],
   skills: [
