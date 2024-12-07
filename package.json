@@ -1,19 +1,18 @@
 {
-  "site": "https://techtim42.com",
-  "id": "TechTim42",
-  "name": "@tim-hub/techtim42",
+  "site": "https://ddrnathan.github.io",
+  "name": "ddrnathan-gh-io",
   "version": "1.0.0",
-  "fullName": "Tech Tim",
-  "description": "Learn, Share and Grow ❤️ -- Software Engineer | AWS Professional | Open Source Lover  --☘️ Be more productive, Better in communicating, Contribute more to community ",
+  "fullName": "Nathan Pierce",
+  "description": "Purpose Amid Chaos",
   "author": {
-    "name": "Tech Tim",
-    "url": "https://TechTim42.com"
+    "name": "Nathan Pierce",
+    "url": "https://ddrnathan.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tim-hub/techtim-astro-bento-portfolio"
+    "url": "https://github.com/ddrnathan/ddrnathan.github.io"
   },
-  "homepage": "https://techtim42.com",
+  "homepage": "https://ddrnathan.github.io",
   "keywords": [
     "astro",
     "portfolio",
